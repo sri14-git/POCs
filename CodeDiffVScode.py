@@ -32,5 +32,4 @@ import subprocess
 #         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    generate_diff_file("C:\\Users\\srivarshan\\Desktop\\OpenAIBatchAPI\\StreamingAndRag\\whitepaper.txt","C:\\DMAP_AI_NEW\\DMAP-AI\\kafka-openai-dmap\\testFiles\\customer-service\\src\\main\\java\\com\\example\\customerservice\\service\\TransactionServiceImpl.java")
-    # launch_vscode_diff("C:\\Users\\srivarshan\\Desktop\\OpenAIBatchAPI\\StreamingAndRag\\whitepaper.txt","C:\\DMAP_AI_NEW\\DMAP-AI\\kafka-openai-dmap\\testFiles\\customer-service\\src\\main\\java\\com\\example\\customerservice\\service\\TransactionServiceImpl.java")
+    generate_diff_file("C:\\Users\\srivarshan\\Desktop\\OpenAIBatchAPI\\n2.txt","C:\\Users\\srivarshan\\Desktop\\OpenAIBatchAPI\\n1.txt")

@@ -1,0 +1,3 @@
+hiii,this is newt global 
+
+this is a demo file
